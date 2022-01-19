@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+  font-family: 'Nunito', Arial, Helvetica, sans-serif;
+  color: #111111;
+  box-sizing: border-box;
+  height: 3000;
+}
+
+/*TEXTO*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+ul,
+p {
+  margin: 0px;
+}
+/**/
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  display: block;
+}
+
+/*IMAGEM*/
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

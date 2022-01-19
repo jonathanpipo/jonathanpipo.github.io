@@ -1,0 +1,28 @@
+/*INDEX CSS***********************************/
+/*Header****************************/
+@import url('header.css');
+/*Introdução************************/
+@import url('introducao.css');
+/*Sobre*****************************/
+@import url('sobre.css');
+/*Formação**************************/
+@import url('formacao.css');
+/*Experiência***********************/
+@import url('experiencia.css');
+/*Footer****************************/
+@import url('footer.css');
+/***********************************/
+/*UTILITÁRIOS CSS*****************************/
+/*Global****************************/
+@import url('global.css');
+/*Cores*****************************/
+@import url('cores.css');
+/*Espaço****************************/
+@import url('espaco.css');
+/*Tipografia************************/
+@import url('tipografia.css');
+/*container*************************/
+@import url('container.css');
+/*botao*****************************/
+@import url('botao.css');
+/***********************************/

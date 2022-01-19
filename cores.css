@@ -1,0 +1,48 @@
+:root {
+  /*BRANCO*/
+  --c-w: #ffffff;
+  /*AZUL*/
+  --c-bg-blue: #398ad4;
+  --c-bg-blue-light: #5eb1ff;
+  --c-blue-dark: #175187;
+  /*CINZA*/
+  --c-bg-c: #fafafa;
+  --c-1: #e9e9e9;
+  /*CONTRASTE*/
+  --c-contraste-dark: #875709;
+  --c-contraste-light: #d49939;
+}
+
+/*COLOR*/
+.cor-c-w {
+  color: var(--c-w);
+}
+.cor-c-bg-blue {
+  color: var(--c-bg-blue);
+}
+.cor-c-blue-dark {
+  color: var(--c-blue-dark);
+}
+.cor-c-bg-c {
+  color: var(--c-bg-c);
+}
+.cor-c-1 {
+  color: var(--c-1);
+}
+.cor--c-contraste-dark {
+  color: var(--c-contraste-dark);
+}
+.cor-c-contraste-light {
+  color: var(--c-contraste-light);
+}
+/*BACKGROND COLOR*/
+.cor-c-bg-blue {
+  background-color: var(--c-bg-blue);
+}
+
+.cor-c-bg-blue-light {
+  background-color: var(--c-bg-blue-light);
+}
+.cor-c-bg-c {
+  background-color: var(--c-bg-c);
+}

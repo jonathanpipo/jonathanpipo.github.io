@@ -1,0 +1,7 @@
+.botao {
+  /*ESPAÇAMENTO*/
+  padding: 5px 20px;
+  /*COLOR*/
+  background-color: var(--c-bg-blue);
+  color: var(--c-w);
+}
