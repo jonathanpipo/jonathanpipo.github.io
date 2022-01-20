@@ -65,20 +65,19 @@
 
 .font-enfeite-bg-c {
   font-size: 6rem;
-  color: transparent;
-  background: #666666;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  text-shadow: 0px 3px 3px rgba(255, 255, 255, 0.5);
+  /**/
+  color: var(--c-bg-blue);
+  text-shadow: 4px 3px 0px rgb(219, 219, 219);
 }
 
 .font-enfeite-bg-b {
   font-size: 6rem;
-  color: transparent;
-  background: #175187;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  background-clip: text;
-  text-shadow: 0px 3px 3px rgba(255, 252, 252, 0.294);
+  text-shadow: 4px 3px 0px rgb(161, 161, 161), 9px 8px 0px rgba(0, 0, 0, 0.15);
+}
+
+/*EFEITO SPAN TAG P - SOBRE */
+.font-efeito-p {
+  font-size: 2.313rem;
+  color: rgb(124, 124, 124);
+  line-height: 2.3rem;
 }
